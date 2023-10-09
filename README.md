@@ -2,7 +2,38 @@
 
 <h1>Hello I'm Sasindu Malshan</h1>
 
-<h6>This my fist C# Project I Crate this Project For Impure My Skill and C# Lean  </h6>
+<p>This my fist C# Project I Crate this Project For Impure My Skill and C# Lean  <p>
+
+<h4>Data Base is MySql</h4>
+
+
+<p>create database student;<br />
+use student;<br />
+create table user<br />
+(<br />
+    userName VARCHAR(45),<br />
+    password varchar(45)<br />
+);<br />
+insert into user<br />
+values ('admin', '1234');<br />
+<br />
+create table registration<br />
+(<br />
+    regNo       Integer,<br />
+    firstName   varchar(50),<br />
+    lastName    varchar(50),<br />
+    dateOfBirth dateTime,<br />
+    gender      varchar(50),<br />
+    address     varchar(50),<br />
+    email       varchar(50),<br />
+    mobilePhone Integer,<br />
+    homePhone   Integer,<br />
+    parentName  varchar(50),<br />
+    nic         varchar(50),<br />
+    contactNo   Integer<br />
+);</p>
+
+
 
 <h4>Login Page</h4>
 
