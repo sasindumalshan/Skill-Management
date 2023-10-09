@@ -6,6 +6,12 @@
 
 <h4>Data Base is MySql</h4>
 
+<p> Please change your username and password for this project before using it. </p>
+<p>Souse path : Skill_management/DBConntection
+/DBConection.cs</p>
+
+<h4>connection = new MySqlConnection("host=localhost;<b>user=your_MySql_userName;password=your_MySql_password;</b>database=student;");</h4>
+
 
 <p>create database student;<br />
 use student;<br />
