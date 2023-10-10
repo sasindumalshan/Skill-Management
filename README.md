@@ -1,11 +1,18 @@
-# Skill_management
+# Skill_management_New
+
 
 <h1>Hello I'm Sasindu Malshan</h1>
 
 <p>This my fist C# Project I Crate this Project For Impure My Skill and C# Lean  <p>
 
 <h4>Data Base is MySql</h4>
+ <br />
+<a href="https://drive.google.com/file/d/1aurKX8lGhg1Pwn2I0RzX6fYUGEqDenZC/view?usp=sharing" target="_blank">Download DB</a> <br />
+<a href="https://dev.mysql.com/downloads/connector/net/" target="_blank">Download C# DB Connector/NET</a>
 
+ <br />
+  <br />
+   <br />
 <p> Please change your username and password for this project before using it. </p>
 <p>Souse path : Skill_management/DBConntection
 /DBConection.cs</p>
